@@ -1,0 +1,2 @@
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\x64\Debug\Flappy Bird.exe
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\x64\Debug\Flappy Bird.pdb

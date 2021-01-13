@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\olcConsoleGameEngine.h(587,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\Source.cpp(111,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\Source.cpp(111,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\Source.cpp(112,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\Source.cpp(112,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\Source.cpp(129,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\Source.cpp(130,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\Source.cpp(135,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\Source.cpp(136,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Flappy Bird.vcxproj -> C:\Users\allen\OneDrive\Desktop\COSC\Christmas Projects 2019\Flappy Bird\x64\Debug\Flappy Bird.exe
